@@ -110,7 +110,7 @@ public class MonsterTwo {
 
 		this.xPosition = randNumX;
 		this.yPosition = randNumY;
-//what a changeeeeeeee
+//what a changeeeeeeeedasdasdasdasd
 		this.nameChar1 = this.name.charAt(0);
 
 		battleBoard[this.yPosition][this.xPosition] = this.nameChar1;
